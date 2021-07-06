@@ -41,7 +41,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgement
 
-Special thanks to
+Special thanks to...
 
 ## 📝 License
 
