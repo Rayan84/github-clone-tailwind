@@ -116,7 +116,7 @@
             <span class="ml-2">Actions</span>
           </a>
         </li>
-                <li>
+        <li>
           <a href="#" class="flex items-center border-b-2 border-transparent hover:border-gray-400 transition ease-in-out duration-150 px-4 pb-3">
             <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
             <span class="ml-2">Projects</span>
@@ -141,6 +141,57 @@
           </a>
         </li>
       </li>
-    </ul>
+    </ul> <!-- end of repo navbar -->
+    <div class="container mx-auto my-8 px-4 flex">
+      <div class="file-explorer-container w-3/4 mr-8">
+        <div class="branch-navigation flex items-center justify-between">
+          <div class="flex items-center space-x-3">
+            <button class="border border-gray-400 rounded-md px-4 py-1 hover:bg-gray-200 flex items-center space-x-2">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+              <div class="font-semibold">master</div>
+              <svg class="w-3 ml-1" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <a href="#" class="flex items-center space-x-2 px-3 py-1 group">
+              <svg aria-hidden="true" viewBox="0 0 16 16" data-view-component="true" class="octicon octicon-repo-forked group-hover:text-blue-600 w-4"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+              <span class="group-hover:text-blue-600">
+                <span class="font-semibold">25</span>
+                <span class="">branches</span>
+              </span>
+            </a>
+            <a href="#" class="flex items-center space-x-2 px-3 py-1 group">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-tag text-gray">
+                <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"></path>
+              </svg>
+               <span class="group-hover:text-blue-600">
+                <span class="font-semibold">25</span>
+                <span class="">tags</span>
+              </span>
+            </a>
+          </div>
+          <div class="flex items-center space-x-2">
+            <button class="border border-gray-400 rounded bg-gray-100 hover:bg-gray-200 px-4 py-1 flex items-center space-x-1">
+              <div>Go to file</div>
+            </button>
+            <button class="border border-gray-400 rounded bg-gray-100 hover:bg-gray-200 px-4 py-1 flex items-center space-x-1">
+              <div>Add file</div>
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-3 ml-1"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <button class="border border-gray-400 rounded text-white bg-green-600 hover:bg-green-700 px-4 py-1 flex items-center space-x-1">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+              <div>Code</div>
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-3 ml-1"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+          </div>
+        </div>
+        <div class="commits-container bg-blue-100 rounded-md rounded-b-none border border-blue-200 border-b-0 flex items-center justify-between px-4 py-4 mt-5">
+
+        </div> <!-- end of commits container -->
+      </div> <!-- end of file explorer container -->
+      <div class="sidebar w-1/4">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus inventore dolor qui eveniet quam quidem, architecto illum aperiam et magni impedit alias minus expedita, laboriosam laudantium fuga, molestiae consequatur repellendus. Cum culpa nesciunt commodi rerum nam repellat, soluta consequuntur et corporis ipsam ab natus, quibusdam minus, iste illum ducimus! Laborum consectetur repellat sequi voluptatem ipsam possimus nam quo, placeat rerum in? A, impedit blanditiis eius architecto ex in neque laudantium sapiente exercitationem. Cumque necessitatibus culpa laudantium provident consequuntur fuga recusandae, sint tenetur soluta iure voluptatum? Voluptate, veritatis quisquam! Officia rerum dignissimos consequuntur necessitatibus doloribus laudantium voluptatum harum doloremque ratione placeat.
+      </div> <!-- end of sidebar -->
+    </div>
   </div>  
 </template>

@@ -3,7 +3,7 @@
 
 # Laravel & Tailwind
 
-This project demonstrates a GitHub page clone, achieved by applying industry best practices, latest technologies.
+This project demonstrates Tailwind and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
 
 
 ## Built With
@@ -18,8 +18,6 @@ This project demonstrates a GitHub page clone, achieved by applying industry bes
 
 To use this application on your local machine, please follow the below steps:
 - `git clone https://github.com/Rayan84/github-clone-tailwind.git`
-- ``
-- 
 - `npm run dev` to start the server
 - On your browser go to `localhost:3000` 
 - 
@@ -46,4 +44,3 @@ Special thanks to...
 ## 📝 License
 
 Copyright 2021 Rayan Rassam
-
