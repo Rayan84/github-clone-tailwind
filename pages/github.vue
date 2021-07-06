@@ -42,5 +42,9 @@
         </a>
       </div>
     </nav> 
+
+    <div class="repo-stats">
+
+    </div>
   </div>  
 </template>
