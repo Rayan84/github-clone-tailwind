@@ -19,7 +19,7 @@ This project demonstrates Tailwind and HTML skills by cloning GitHub page, achie
 To use this application on your local machine, please follow the below steps:
 - `git clone https://github.com/Rayan84/github-clone-tailwind.git`
 - `npm run dev` to start the server
-- On your browser go to `localhost:3000\github` 
+- On your browser go to `localhost:3000/github`
 - 
 
 ## Author
