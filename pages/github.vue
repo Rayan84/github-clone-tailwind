@@ -186,8 +186,53 @@
           </div>
         </div>
         <div class="commits-container bg-blue-100 rounded-md rounded-b-none border border-blue-200 border-b-0 flex items-center justify-between px-4 py-4 mt-5">
-
+          <div class="flex items-center space-x-2">
+            <a href="#">
+              <img src="https://avatars.githubusercontent.com/u/5465074?v=4" alt="avatar" class="rounded-full w-6 h-6">
+            </a>
+            <a href="#" class="font-semibold hover:underline">Bob Mulder</a>
+            <a href="#" class="hover:underline hover:text-blue-600">2.3.2</a>
+          </div>
+          <div class="flex items-end">
+            <a href="#">
+              <svg class="w-4 text-green-500 fill-current" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+            </a>
+            <a href="#" class="font-mono text-xs text-gray-600 hover:underline hover:text-blue-500 ml-2">d500a3</a>
+            <a href="#" class="text-gray-600 hover:underline hover:text-blue-500 ml-2">2 days ago</a>
+            <a href="#" class="flex items-center ml-3">
+              <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" class="w-3 h-3">
+                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+              </svg>
+              
+              <span class="ml-1">
+                <span class="font-semibold">238 </span>commits
+              </span>
+            </a>
+          </div>
         </div> <!-- end of commits container -->
+
+        <div class="file-explorer rounded-md rounded-t-none border border-gray-300 text-gray-700 divide-y divide-gray-300">
+          <div class="flex justify-between px-4 py-2">
+            <div class="w-4/12 flex items-center">
+              <svg aria-label="Directory" aria-hidden="true" viewBox="0 0 16 16" data-view-component="true" height="16" width="16" class="fill-current text-blue-300 mr-3">
+                <path fill-rule="evenodd" d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3h-6.5a.25.25 0 01-.2-.1l-.9-1.2c-.33-.44-.85-.7-1.4-.7h-3.5z"></path>
+              </svg>
+              <a href="#">.github</a>
+            </div>
+            <div class="w-6/12">initial commit</div>
+            <div class="w-2/12 text-right">1 hour ago</div>           
+          </div>
+          <div class="flex justify-between px-4 py-2">
+            <div class="w-4/12">one</div>
+            
+          </div>
+          <div class="flex justify-between px-4 py-2">
+            <div class="w-4/12">one</div>
+            <div class="w-6/12">two sfsa</div>
+            <div class="w-2/12 text-right">three</div>
+          </div>
+        </div>
+        
       </div> <!-- end of file explorer container -->
       <div class="sidebar w-1/4">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus inventore dolor qui eveniet quam quidem, architecto illum aperiam et magni impedit alias minus expedita, laboriosam laudantium fuga, molestiae consequatur repellendus. Cum culpa nesciunt commodi rerum nam repellat, soluta consequuntur et corporis ipsam ab natus, quibusdam minus, iste illum ducimus! Laborum consectetur repellat sequi voluptatem ipsam possimus nam quo, placeat rerum in? A, impedit blanditiis eius architecto ex in neque laudantium sapiente exercitationem. Cumque necessitatibus culpa laudantium provident consequuntur fuga recusandae, sint tenetur soluta iure voluptatum? Voluptate, veritatis quisquam! Officia rerum dignissimos consequuntur necessitatibus doloribus laudantium voluptatum harum doloremque ratione placeat.
