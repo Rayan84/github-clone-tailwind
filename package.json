@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "build:github-clone-tailwind": "DEPLOY_ENV=github-clone-tailwind nuxt build",
+    "generate:github-clone-tailwind": "DEPLOY_ENV=github-clone-tailwind nuxt generate",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },

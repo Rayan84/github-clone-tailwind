@@ -1,4 +1,12 @@
+const routerBase = process.env.DEPLY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/TextNuxt/'
+  }
+} : {}
+
 export default {
+
+  ...routerBase,
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
