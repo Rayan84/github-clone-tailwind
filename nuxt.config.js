@@ -15,7 +15,7 @@ export default {
   target: 'static',
   router: {
   base: '/github-clone-tailwind/'
-}
+},
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
