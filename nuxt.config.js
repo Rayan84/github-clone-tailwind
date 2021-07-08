@@ -4,14 +4,18 @@ const routerBase = process.env.DEPLY_ENV === 'github-clone-tailwind' ? {
   }
 } : {}
 
+
 export default {
 
-  ...routerBase,
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
+
   target: 'static',
+  router: {
+  base: '/github-clone-tailwind/'
+}
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
