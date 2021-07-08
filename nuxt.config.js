@@ -1,4 +1,4 @@
-const routerBase = process.env.DEPLY_ENV === 'GH_PAGES' ? {
+const routerBase = process.env.DEPLY_ENV === 'github-clone-tailwind' ? {
   router: {
     base: '/TextNuxt/'
   }
