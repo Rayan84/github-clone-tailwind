@@ -41,7 +41,7 @@
           </svg>
         </a>
       </div>
-    </nav> 
+    </nav>
     <div class="bg-gray-50 ">
     <div class="repo-stats flex items-center justify-between px-8 py-4">
       <div class="flex">
@@ -204,7 +204,7 @@
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" class="w-3 h-3">
                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
               </svg>
-              
+
               <span class="ml-1">
                 <span class="font-semibold">238 </span>commits
               </span>
@@ -223,7 +223,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">initial commit</a>
               </div>
-            <div class="w-2/12 text-right">1 hour ago</div>           
+            <div class="w-2/12 text-right">1 hour ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -236,7 +236,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -249,7 +249,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">add content and style to file explorer section</a>
               </div>
-            <div class="w-2/12 text-right">29 minutes ago</div>           
+            <div class="w-2/12 text-right">29 minutes ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -262,7 +262,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -275,7 +275,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -288,7 +288,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -301,7 +301,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">Add commits container</a>
               </div>
-            <div class="w-2/12 text-right">13 hour ago</div>           
+            <div class="w-2/12 text-right">13 hour ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -314,7 +314,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -327,7 +327,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
 
           <div class="flex justify-between px-4 py-2">
@@ -340,7 +340,7 @@
             <div class="w-6/12">
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
               </div>
-            <div class="w-2/12 text-right">2 days ago</div>           
+            <div class="w-2/12 text-right">2 days ago</div>
           </div>
         </div>
       <div class="readme-container rounded-md border border-gray-300 px-4 py-4 mt-4">
@@ -360,13 +360,13 @@
           <div>
             <p>No description, website, or topics provided.</p>
           </div>
-          <div class=""> 
+          <div class="">
             <a class="flex items-end" href="#readme">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-book mr-2">
                 <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
               </svg>
                 Readme
-            </a> 
+            </a>
           </div>
         </div>
 
@@ -422,10 +422,11 @@
         <li><a href="#" class="text-blue-600 hover:underline">About</a></li>
       </ul>
     </footer>
-  </div>  
+  </div>
 </template>
 
-
+<script src="https://unpkg.com/vue"></script>
+<script src=""></script>
 <script>
 export default {}
 </script>
