@@ -6,6 +6,11 @@ This project demonstrates Tailwind, Vue and HTML skills by cloning GitHub page, 
 ## Screenshot
 <img src='./Screenshot.png'>
 
+
+## Live Link
+
+[Click Here](https://deploy-preview-2--cocky-raman-ad7cea.netlify.app/)
+
 ## Built With
 
 - NuxtJS
