@@ -1,6 +1,6 @@
 # github-clone-tailwind
 
-This project demonstrates Tailwind and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
+This project demonstrates Tailwind, Vue and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
 
 
 ## Screenshot
