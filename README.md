@@ -1,7 +1,4 @@
 # github-clone-tailwind
-![](https://img.shields.io/badge/
-
-# Laravel & Tailwind
 
 This project demonstrates Tailwind and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
 
