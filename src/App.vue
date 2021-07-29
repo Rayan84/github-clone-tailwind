@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue';
+import Navbar from '@/components/Navbar.vue';
 import Main from '@/components/Main.vue';
 
 export default {
@@ -21,7 +21,4 @@ export default {
 </script>
 
 <style>
-#app {
-
-}
 </style>

@@ -308,6 +308,28 @@
         </div>
       </div> <!-- end of readme section -->
       </div> <!-- end of file explorer container -->
+      
+      <div class="sidebar w-1/4">
+        <div class="about">
+          <h4 class="text-base font-semibold">About</h4>
+          <p class="text-base mt-4">A utility-first CSS framework for rapid UI development.</p>
+
+          <div class="flex items-center space-x-2 mt-4">
+            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-link flex-shrink-0 mr-2">
+            <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
+            </svg>
+            <a href="#" class="text-blue-600 hover:underline font-semibold">tailwindcss.com/</a>
+          </div>
+          <div class="tags text-xs font-semibold flex items-center flex-wrap mt-2">
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2"></a>
+          </div>
+
+        </div>
+      
+      </div>
+
+
+      <!--
       <div class="sidebar w-1/4">
         <div class="pb-5  border-b-2">
           <div class="flex justify-between">
@@ -354,7 +376,11 @@
             <span class="border rounded text-green-500 ml-2">Active</span>
           </div>
         </div>
-      </div> <!-- end of sidebar -->
+      </div> --><!-- end of sidebar -->
+
+
+
+
     </div>
     <footer class="container mx-auto text-xs border-t  py-10 flex items-center justify-between max-w-screen-xl">
       <ul class="flex items-center space-x-12">
