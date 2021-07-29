@@ -321,7 +321,14 @@
             <a href="#" class="text-blue-600 hover:underline font-semibold">tailwindcss.com/</a>
           </div>
           <div class="tags text-xs font-semibold flex items-center flex-wrap mt-2">
-            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2"></a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+            <a href="#" class="bg-blue-100 hover:200 text-blue-600 rounded-full px-2 py-1 mt-2">tailwindcss</a>
+
           </div>
 
         </div>
