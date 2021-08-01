@@ -347,10 +347,26 @@
             <span>Releases</span>
             <div class="text-xs rounded-lg bg-gray-300 px-2 ml-1">79</div>
           </h4>
-        </div>
-
-      
-      </div>
+          <a href="#" class="flex mt-4 group">
+            <span class="ml-2">
+              <span class="font-semibold group-hover:text-blue-600">v1.5.1</span>
+              <div class="ml-1 text-xs border-green-500 text-green-600 rounded-full font-semibold inline-block px-2">Latest</div>
+            </span>
+          </a>
+        </div>  <!-- end of releases -->
+        <div class="used-by border-t border-gray-300 mt-6 pt-6">
+          <h4 class="text-base font-semibold flex items-center">
+            <span>Used by</span>
+            <div class="text-xs rounded-lg bg-gray-300 px-2 ml-1">5,000</div>
+          </h4>
+        </div>  <!-- end of used by -->
+        <div class="contributor border-t border-gray-300 mt-6 pt-6">
+          <h4 class="text-base font-semibold flex items-center">
+            <span>Congributor</span>
+            <div class="text-xs rounded-lg bg-gray-300 px-2 ml-1">115</div>
+          </h4>
+        </div>  <!-- end of releases -->
+      </div>    <!-- end of the sidebar -->
 
 
       <!--
