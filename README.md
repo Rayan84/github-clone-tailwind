@@ -24,8 +24,8 @@ This project demonstrates Tailwind, Vue and HTML skills by cloning GitHub page, 
 To use this application on your local machine, please follow the below steps:
 - `git clone https://github.com/Rayan84/github-clone-tailwind.git`
 - `npm install`
-- `npm run dev` to start the server
-- On your browser go to `localhost:3000`
+- `yarn serve` to start the server
+- On your browser go to `localhost:8080`
 
 ## Author
 
