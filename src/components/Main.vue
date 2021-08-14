@@ -5,7 +5,7 @@
       <div class="flex">
         <svg class="w-4 fill-current" viewBox="0 0 16 16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
         <div class="flex items-center text-xl ml-2">
-          <a href="" class="text-blue-600 hover:underline">tailwindcss / nuxtjs</a>
+          <a href="" class="text-blue-600 hover:underline">tailwindcss / vuejs</a>
           <span class="ml-1"></span>
         </div>
       </div>
@@ -193,7 +193,7 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">components</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -219,7 +219,7 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">static</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -232,7 +232,7 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">.editorconfig</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -245,7 +245,7 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">.gitignore</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -268,10 +268,10 @@
               <svg aria-label="File" aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-file color-icon-tertiary">
                 <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
               </svg>
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">nuxt.config.js</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">vue.config.js</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -284,7 +284,7 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">package-lock.json</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
@@ -297,15 +297,53 @@
               <a href="#" class="hover:underline hover:text-blue-500 ml-3">package.json</a>
             </div>
             <div class="w-6/12">
-              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create nuxt app basic environment</a>
+              <a href="#" class="hover:underline hover:text-blue-500 ml-3">create VueJS  app</a>
               </div>
             <div class="w-2/12 text-right">2 days ago</div>           
           </div>
         </div>
-      <div class="readme-container rounded-md border border-gray-300 px-4 py-4 mt-4">
-        <h4 class="font-semibold">README.md</h4>
-        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor iure quo tempore? Odio minima voluptate eveniet, omnis quisquam voluptatibus, numquam aliquam sint et quo excepturi, nulla enim incidunt dolores asperiores!
+      <div class="readme-container rounded-md border border-gray-300 py-4 mt-4">
+        <div class="border-b-2 pb-4 px-4 flex pt-1">
+          <svg aria-hidden="true"  viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
+             <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+          </svg>
+          <h4 class="font-semibold ml-3">README.md</h4>
         </div>
+        <div class="px-16">
+          <img class="w-5/12" src="https://camo.githubusercontent.com/53b9876cd8e38928387c6824043b0e2772b15b1bfdb7f42d0864216abbf3dfe8/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" alt="tailwindcss logo">
+          <p>A utility-first CSS framework for rapidly building custom user interfaces.</p>
+          <p class="flex mt-5">
+    <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://camo.githubusercontent.com/ca45ba03deceba06fa2e2d428ed86fe0e28326e017ed389a826dc0ec9086c2a4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f776f726b666c6f772f7374617475732f7461696c77696e646c6162732f7461696c77696e646373732f4e6f64652e6a732532304349" alt="Build Status" data-canonical-src="https://img.shields.io/github/workflow/status/tailwindlabs/tailwindcss/Node.js%20CI" style="max-width:100%;"></a>
+    <a href="https://www.npmjs.com/package/tailwindcss" rel="nofollow"><img class="ml-2" src="https://camo.githubusercontent.com/01826d01c37490afdd279cb555aea2e4d1adba6db1a939b50962b470dac8563f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7461696c77696e646373732e737667" alt="Total Downloads" data-canonical-src="https://img.shields.io/npm/dt/tailwindcss.svg" style="max-width:100%;"></a>
+    <a href="https://github.com/tailwindcss/tailwindcss/releases"><img class="ml-2" src="https://camo.githubusercontent.com/a1b0e067ca8da0d6d7fc2abcd93b496ace7786044362f491e5b6265a01618714/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7461696c77696e646373732e737667" alt="Latest Release" data-canonical-src="https://img.shields.io/npm/v/tailwindcss.svg" style="max-width:100%;"></a>
+    <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img class="ml-2" src="https://camo.githubusercontent.com/8dbfbfdf4ddc6f9b8565554fa3fe6d147306df766c70c7c7ab3ecdf9e2057f61/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7461696c77696e646373732e737667" alt="License" data-canonical-src="https://img.shields.io/npm/l/tailwindcss.svg" style="max-width:100%;"></a>
+</p>
+        </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
       </div> <!-- end of readme section -->
       </div> <!-- end of file explorer container -->
       
