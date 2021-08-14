@@ -307,17 +307,32 @@
           <svg aria-hidden="true"  viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
              <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
           </svg>
-          <h4 class="font-semibold ml-3">README.md</h4>
+          <a href="#" class="hover:text-blue-500 hover:underline"><h6 class="font-semibold ml-3">README.md</h6></a>
         </div>
         <div class="px-16">
           <img class="w-5/12" src="https://camo.githubusercontent.com/53b9876cd8e38928387c6824043b0e2772b15b1bfdb7f42d0864216abbf3dfe8/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" alt="tailwindcss logo">
           <p>A utility-first CSS framework for rapidly building custom user interfaces.</p>
           <p class="flex mt-5">
-    <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://camo.githubusercontent.com/ca45ba03deceba06fa2e2d428ed86fe0e28326e017ed389a826dc0ec9086c2a4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f776f726b666c6f772f7374617475732f7461696c77696e646c6162732f7461696c77696e646373732f4e6f64652e6a732532304349" alt="Build Status" data-canonical-src="https://img.shields.io/github/workflow/status/tailwindlabs/tailwindcss/Node.js%20CI" style="max-width:100%;"></a>
-    <a href="https://www.npmjs.com/package/tailwindcss" rel="nofollow"><img class="ml-2" src="https://camo.githubusercontent.com/01826d01c37490afdd279cb555aea2e4d1adba6db1a939b50962b470dac8563f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7461696c77696e646373732e737667" alt="Total Downloads" data-canonical-src="https://img.shields.io/npm/dt/tailwindcss.svg" style="max-width:100%;"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/releases"><img class="ml-2" src="https://camo.githubusercontent.com/a1b0e067ca8da0d6d7fc2abcd93b496ace7786044362f491e5b6265a01618714/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7461696c77696e646373732e737667" alt="Latest Release" data-canonical-src="https://img.shields.io/npm/v/tailwindcss.svg" style="max-width:100%;"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img class="ml-2" src="https://camo.githubusercontent.com/8dbfbfdf4ddc6f9b8565554fa3fe6d147306df766c70c7c7ab3ecdf9e2057f61/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7461696c77696e646373732e737667" alt="License" data-canonical-src="https://img.shields.io/npm/l/tailwindcss.svg" style="max-width:100%;"></a>
-</p>
+            <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://camo.githubusercontent.com/ca45ba03deceba06fa2e2d428ed86fe0e28326e017ed389a826dc0ec9086c2a4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f776f726b666c6f772f7374617475732f7461696c77696e646c6162732f7461696c77696e646373732f4e6f64652e6a732532304349" alt="Build Status" data-canonical-src="https://img.shields.io/github/workflow/status/tailwindlabs/tailwindcss/Node.js%20CI" style="max-width:100%;"></a>
+            <a href="https://www.npmjs.com/package/tailwindcss" rel="nofollow"><img class="ml-2" src="https://camo.githubusercontent.com/01826d01c37490afdd279cb555aea2e4d1adba6db1a939b50962b470dac8563f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7461696c77696e646373732e737667" alt="Total Downloads" data-canonical-src="https://img.shields.io/npm/dt/tailwindcss.svg" style="max-width:100%;"></a>
+            <a href="https://github.com/tailwindcss/tailwindcss/releases"><img class="ml-2" src="https://camo.githubusercontent.com/a1b0e067ca8da0d6d7fc2abcd93b496ace7786044362f491e5b6265a01618714/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7461696c77696e646373732e737667" alt="Latest Release" data-canonical-src="https://img.shields.io/npm/v/tailwindcss.svg" style="max-width:100%;"></a>
+            <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img class="ml-2" src="https://camo.githubusercontent.com/8dbfbfdf4ddc6f9b8565554fa3fe6d147306df766c70c7c7ab3ecdf9e2057f61/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7461696c77696e646373732e737667" alt="License" data-canonical-src="https://img.shields.io/npm/l/tailwindcss.svg" style="max-width:100%;"></a>
+          </p>
+          <hr class="mt-5 leading-20 text-black-500 border-t-4">
+          <div class="mt-5">
+            <p class="font-extrabold text-2xl mb-5">Documentation</p>
+          </div>
+          <p>For full documentation, visit <a class="text-blue-500 hover:underline" href="#">tailwindcss.com.</a></p>
+          <div class="mt-5">
+            <p class="font-extrabold text-2xl mb-5">Community</p>
+          </div>
+          <p>For help, discussion about best practices, or any other conversation that would benefit from being searchable:</p>
+          <p><a class="text-blue-500 hover:underline" href="#">Discuss Tailwind CSS on GitHub</a></p>
+          <div class="mt-5">
+            <p class="font-extrabold text-2xl mb-5">Contributing</p>
+          </div>
+          <p>If you're interested in contributing to Tailwind CSS, please read our <a class="text-blue-500 hover:underline" href="#">contributing docs </a><span class="font-bold">before submitting a pull request.</span></p>
+
         </div>
         
 
