@@ -331,8 +331,7 @@
           <div class="mt-5">
             <p class="font-extrabold text-2xl mb-5">Contributing</p>
           </div>
-          <p>If you're interested in contributing to Tailwind CSS, please read our <a class="text-blue-500 hover:underline" href="#">contributing docs </a><span class="font-bold">before submitting a pull request.</span></p>
-
+          <p class="mb-6">If you're interested in contributing to Tailwind CSS, please read our <a class="text-blue-500 hover:underline" href="#">contributing docs </a><span class="font-bold">before submitting a pull request.</span></p>
         </div>
         
 
