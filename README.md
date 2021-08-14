@@ -1,15 +1,19 @@
 # github-clone-tailwind
-![](https://img.shields.io/badge/
 
-# Laravel & Tailwind
+This project demonstrates Tailwind, VueJS and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
 
-This project demonstrates Tailwind and HTML skills by cloning GitHub page, achieved by applying industry best practices and utilizing latest technologies.
 
+## Screenshot
+<img src='./Screenshot.png'>
+
+
+## Live Link
+
+[Click Here](https://deploy-preview-2--cocky-raman-ad7cea.netlify.app/)
 
 ## Built With
 
-- NuxtJS
-- Laravel
+- VueJS
 - Tailwind
 - Visual Studio Code
 - Git and GitHub
@@ -18,15 +22,16 @@ This project demonstrates Tailwind and HTML skills by cloning GitHub page, achie
 
 To use this application on your local machine, please follow the below steps:
 - `git clone https://github.com/Rayan84/github-clone-tailwind.git`
-- `npm run dev` to start the server
-- On your browser go to `localhost:3000`
+- `npm install`
+- `npm run serve` to start the server
+- On your browser go to `localhost:8080`
 
 ## Author
 
 👤 **Rayan Rassam**
 - Github:[@Rayan84](https://github.com/Rayan84)
 - Twitter:[@Rayan65096267](https://twitter.com/Rayan65096267)
-- LinkedIn:[@rayan rassam](https://www.linkedin.com/in/rayan-rassam-18a0a426/) 
+- LinkedIn:[@rayan rassam](https://www.linkedin.com/in/rayan-rassam-18a0a426/)
 
 ## 🤝 Contributing
 
